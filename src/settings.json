@@ -1,0 +1,74 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover a world of wholesome, nutritious, and delicious meals crafted for the health-conscious you.",
+        "title": "EatClean: Fuel Your Body with Nature's Best"
+      }
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover a world of wholesome, nutritious, and delicious meals crafted for the health-conscious you.",
+        "title": "EatClean: Fuel Your Body with Nature's Best"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover a world of wholesome, nutritious, and delicious meals crafted for the health-conscious you.",
+        "title": "EatClean: Fuel Your Body with Nature's Best"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover a world of wholesome, nutritious, and delicious meals crafted for the health-conscious you.",
+        "title": "EatClean: Fuel Your Body with Nature's Best"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover a world of wholesome, nutritious, and delicious meals crafted for the health-conscious you.",
+        "title": "EatClean: Fuel Your Body with Nature's Best"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a world of wholesome, nutritious, and delicious meals crafted for the health-conscious you.",
+        "title": "EatClean: Fuel Your Body with Nature's Best"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover a world of wholesome, nutritious, and delicious meals crafted for the health-conscious you.",
+        "title": "EatClean: Fuel Your Body with Nature's Best"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover a world of wholesome, nutritious, and delicious meals crafted for the health-conscious you.",
+        "title": "EatClean: Fuel Your Body with Nature's Best"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a world of wholesome, nutritious, and delicious meals crafted for the health-conscious you.",
+        "title": "EatClean: Fuel Your Body with Nature's Best"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "EatClean: Fuel Your Body with Nature's Best",
+  "subtitle": "Discover a world of wholesome, nutritious, and delicious meals crafted for the health-conscious you."
+}
